@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Adam Cabrera
 
+
 - 🎓 Studied **Systems Engineering** at PUCE - Quito, Ecuador
 - 🔭 Currently working on personal projects involving mobile development
 - 🧠 Learning more about data analysis and machine learning
@@ -45,6 +46,8 @@
 
 Here are some ideas to get you started:
 [![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=admc27)](https://github.com/anuraghazra/github-readme-stats)
+Giffy
+![Funny Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ2am1meWJ2a3c1NHdyZjI4MTB6aTh0bTllNnRqd3Fjb2U2OGtybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
